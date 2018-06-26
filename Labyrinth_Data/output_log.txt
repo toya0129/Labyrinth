@@ -1,0 +1,40 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 5500 (ID=0x1616)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\mio♪\大学資料\3年生\ゼミナール\Unity\Labyrinth\Labyrinth_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\mio♪\大学資料\3年生\ゼミナール\Unity\Labyrinth\Labyrinth_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\mio♪\大学資料\3年生\ゼミナール\Unity\Labyrinth\Labyrinth_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\mio♪\大学資料\3年生\ゼミナール\Unity\Labyrinth\Labyrinth_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\mio♪\大学資料\3年生\ゼミナール\Unity\Labyrinth\Labyrinth_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\mio♪\大学資料\3年生\ゼミナール\Unity\Labyrinth\Labyrinth_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\mio♪\大学資料\3年生\ゼミナール\Unity\Labyrinth\Labyrinth_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\mio♪\大学資料\3年生\ゼミナール\Unity\Labyrinth\Labyrinth_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\mio♪\大学資料\3年生\ゼミナール\Unity\Labyrinth\Labyrinth_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\mio♪\大学資料\3年生\ゼミナール\Unity\Labyrinth\Labyrinth_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.298 seconds
+Platform assembly: C:\Users\mio♪\大学資料\3年生\ゼミナール\Unity\Labyrinth\Labyrinth_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\mio♪\大学資料\3年生\ゼミナール\Unity\Labyrinth\Labyrinth_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.574756 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2878 -> priority: 1 
+  Thread -> id: 30bc -> priority: 1 
+The referenced script on this Behaviour (Game Object 'Player') is missing!
+ 
+(Filename:  Line: 1743)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.452855 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 564.
+Total: 0.257447 ms (FindLiveObjects: 0.043193 ms CreateObjectMapping: 0.020955 ms MarkObjects: 0.178331 ms  DeleteObjects: 0.014540 ms)
+
